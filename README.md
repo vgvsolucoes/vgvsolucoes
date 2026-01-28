@@ -23,7 +23,7 @@ Especialista em automação e apaixonada por transformar processos através da *
 ---
 
 ### 📬 Vamos conectar?
-- **LinkedIn:** [Insira seu link aqui]
-- **Email:** [Insira seu email aqui]
+- **LinkedIn:**[(https://www.linkedin.com/in/joelmalima18/)]
+- **Email:** [agsolutus@gmail.com]
 
 *"Documentar o presente é a única forma de dominar o futuro."* 🚀

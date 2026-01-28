@@ -1,4 +1,4 @@
-# Olá, eu sou a [Seu Nome]! 👋
+# Olá, eu sou a joelma Lima! 👋
 
 Fundadora da **VGV Soluções Digitais**.  
 Especialista em automação e apaixonada por transformar processos através da **Engenharia de Prompts** e **IA Multimodal**.
